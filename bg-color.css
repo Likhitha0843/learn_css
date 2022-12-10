@@ -1,0 +1,12 @@
+body{
+    background-color: pink;
+}
+h1{
+    background-color: #ff6789;
+}
+p{
+    background-color: rgb(215,0,0);
+}
+h2{
+    background-color: rgba(173, 95, 212, 0.5);
+}
